@@ -4,8 +4,6 @@ import ThreeScene from "./components/ThreeScene.js";
 import { OrbitControls, Sparkles ,Stars} from "@react-three/drei";
 import { Model } from "./assets/Silvers.jsx";
 import { Environment } from '@react-three/drei';
-import { EffectComposer, Bloom, DepthOfField } from '@react-three/postprocessing';
-
 
 
 function App() {
